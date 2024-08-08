@@ -1,0 +1,31 @@
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(5, 5, 5, 0.9) ! important;
+    font-weight: 600px;
+}
+.carousel {
+    position: relative;
+}
+
+
+
+
+.mystyle {
+    height: 100% !important; 
+    object-fit: fill;/* Set the image height to 100% of the parent container */
+}
+@media screen and (max-width:2275){
+    .carousel-item {
+        height: 87vh; /* Set the height to 50% of the viewport height */
+    }
+    .carousel-item {
+        height: 100%; /* Set the height to 50% of the viewport height */
+    }
+    
+    .mystyle {
+        height: 100% !important; 
+        object-fit: fill;/* Set the image height to 100% of the parent container */
+    }
+
+
+
+}
