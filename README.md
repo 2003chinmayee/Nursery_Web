@@ -24,10 +24,11 @@ Easy Navigation: User-friendly layout for seamless browsing.
 3.Bootstrap: Ensuring a responsive and modern design
 
 
-##🌺 Contributing
+🌺 Contributing
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue. Let’s grow this project together! 🌱
 
-##🌷 Contact
+
+🌷 Contact
 Have questions or feedback? I’d love to hear from you! Reach out to me at:
 
 Email: your-email@example.com
